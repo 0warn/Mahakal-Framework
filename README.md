@@ -10,7 +10,7 @@
 <p align="center">
   <b>A powerful 🔐 cybersecurity terminal framework</b><br>
   <i>Built for Hackers, Red Teamers, and Cyber Warriors 💀</i><br><br>
-  <b>🛠️ Created By:</b> <a href="https://github.com/Cyber-Mrinal">CYBER-MRINAL</a>
+  <b>🛠️ Created By:</b> <a href="https://github.com/CYBER-4RMY">CYBER-4RMY</a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/CYBER-MRINAL/Mahakal-Framework
+git clone https://github.com/CYBER-4RMY/Mahakal-Framework
 cd Mahakal-Framework
 chmod +x setup.sh
 sudo ./setup.sh
@@ -176,17 +176,6 @@ MIT License — Free to use, modify, and distribute with credit.
 
 ![image](https://github.com/user-attachments/assets/cff0b609-ef01-4244-948b-40d58e8ff199)
 
-
---- 
-## ⚡ Connect with Me
-
-| Platform    | Link                                                                         |
-| ----------- | ---------------------------------------------------------------------------- |
-| 🌐 Website  | [OMSWASTRA](https://cyber-mrinal.github.io/omswastra) |
-| 💼 LinkedIn | [LINKEDIN](https://linkedin.com/in/CYBERMRINAL) |
-| 🐙 GitHub   | [GITHUB](https://github.com/CYBER-MRINAL)                   |
-|   Telegram  | [TELEGRAM-FOR-TOOL-ISSUE](https://github.com/cybermrinalgroup/3)  
-
 ---
 
 ## 🕉️ Jai Mahakal 🕉️
@@ -197,7 +186,7 @@ MIT License — Free to use, modify, and distribute with credit.
 ---
 
 <p align="center">
-  ⚡ Built with ❤️ by <b>CYBER-MRINAL</b> ⚡<br>
+  ⚡ Built with ❤️ by <b>CYBER-4RMY</b> ⚡<br>
   <i>Indian Cybersecurity Engineer • Red Team • Blue Team • Sanatani</i><br>
   <i>[*] Can i get a star (⭐) & follow (🔔) for my work ?</i>
 </p>
