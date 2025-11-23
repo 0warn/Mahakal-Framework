@@ -47,7 +47,7 @@ display_banner() {
     echo "                                               | |__| | __ |\/| |__| |__| |__| |_/  |__| |                   "
     echo "                                              _| |  | |    |  | |  | |  | |  | | \_ |  | |___               "
     echo -e "\033[1;31m"
-    echo "                                                       <)--o(CYBER-MRINAL)o--(>                     "
+    echo "                                                       <)--o(CYBER-4RMY)o--(>                     "
     echo -e "\033[0;36m"
     echo "                                       👤 User >> $(whoami)   ⏱️Time >>  $(date '+%H:%M:%S')  🧠  $(hostname)  "
     echo -e "\033[0m"
