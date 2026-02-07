@@ -2,7 +2,7 @@
 
 # ─────────────────────────────────────────────────────────────────
 # MAHAKAL FRAMEWORK INSTALLER 
-# Author: CYBER-4RMY
+# Author: 0warn
 # Description: Installs all dependencies and sets up mahakal.sh
 # ─────────────────────────────────────────────────────────────────
 

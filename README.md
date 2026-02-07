@@ -10,7 +10,7 @@
 <p align="center">
   <b>A powerful 🔐 cybersecurity terminal framework</b><br>
   <i>Built for Hackers, Red Teamers, and Cyber Warriors 💀</i><br><br>
-  <b>🛠️ Created By:</b> <a href="https://github.com/CYBER-4RMY">CYBER-4RMY</a>
+  <b>🛠️ Created By:</b> <a href="https://github.com/0warn">0warn</a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/CYBER-4RMY/Mahakal-Framework
+git clone https://github.com/0warn/Mahakal-Framework
 cd Mahakal-Framework
 chmod +x setup.sh
 sudo ./setup.sh
@@ -186,7 +186,7 @@ MIT License — Free to use, modify, and distribute with credit.
 ---
 
 <p align="center">
-  ⚡ Built with ❤️ by <b>CYBER-4RMY</b> ⚡<br>
+  ⚡ Built with ❤️ by <b>0warn</b> ⚡<br>
   <i>Indian Cybersecurity Engineer • Red Team • Blue Team • Sanatani</i><br>
   <i>[*] Can i get a star (⭐) & follow (🔔) for my work ?</i>
 </p>
